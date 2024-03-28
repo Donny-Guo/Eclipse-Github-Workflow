@@ -2,23 +2,36 @@
 
 https://www.youtube.com/watch?v=LPT7v69guVY
 
-Step 1 : Create GitHub account and SignIn
+Step 1 : Create GitHub account and Sign In
 
-Step 2 : Start a Project = Create a repository
+Step 2 : Create a repository in your Github, save the github link
 
 Step 3 : Start Eclipse
 
-Step 4 : Goto Perspective - Git Repositories and click on Add Git Repo
+Step 4 : Go to Perspective - Git Repositories and click on Add Git Repo
 
 Step 5 : Create a project in Eclipse
 
-Step 6 : Do a right click on Project - Team - Share - Add to git repo
+Step 6 : Do a right click on Project - Team - Share - create - Create a new folder for git repo (local) - (optional) change default branch name - Finish
 
-Step 7 : Commit and Push the project to the repo
+Step 7: Do some work in Eclipse
 
-Step 8 : Commit and Push every change to the repo
+Step 8 : Go to Git perspective, stage your file, Commit and Push the project to the repo (push head) -> paste the GitHub link, under "User": enter your email for GitHub, under "password": enter your **ACCESS TOKEN**
 
-While pushing to github you will NOW need to provide ACCESS TOKEN in place of password To generate Access Token 1. Login to your GitHub account 2. Verify your email address, if it hasn't been verified yet. 3. In the upper-right corner of any page, click your profile photo, then click Settings. 4. In the left sidebar, click Developer settings. 5. In the left sidebar, click Personal access tokens. 6. Click Generate new token. 7. Give your token a descriptive name. 8. To give your token an expiration, select the Expiration drop-down menu, then click a default or use the calendar picker 9. Select the scopes, or permissions, you'd like to grant this token. To use your token to access repositories from the command line, select repo. 10. Click Generate token
+
+
+While pushing to github you will NOW need to provide ACCESS TOKEN in place of password To generate Access Token 
+
+1. Login to your GitHub account 
+2. Verify your email address, if it hasn't been verified yet. 
+3. In the upper-right corner of any page, click your profile photo, then click Settings. 
+4. In the left sidebar, click Developer settings. 
+5. In the left sidebar, click Personal access tokens. 
+6. Click Generate new token. 
+7. Give your token a descriptive name. 
+8. To give your token an expiration, select the Expiration drop-down menu, then click a default or use the calendar picker 
+9. Select the scopes, or permissions, you'd like to grant this token. To use your token to access repositories from the command line, **select repo**. 
+10. Click Generate token and save the token
 
 
 
