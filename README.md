@@ -81,4 +81,5 @@ Step 3: Right click and switch to new branch.
 
 Step 4: Go back to the Project Perspective
 
-Step 5: Select File -> Import -> Git -> Projects from Git -> Existing local repository -> Select the clonded git repo -> Java -> Java Project -> Project name: the folder name you just noted down -> Done
+Step 5: Select File -> Import -> Git -> Projects from Git -> Existing local repository -> Select the clonded git repo -> Import using the New Project wizard -> Java -> Java Project -> Project name: the folder name you just noted down -> Done
+
