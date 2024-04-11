@@ -77,7 +77,7 @@ Step 0: Go to Git Perspective: open eclipse -> click on "Window" in the menu bar
 
 Step 1: Clone a Git Repo and add the clone to this view -> Clone URI -> Select the branch to clone -> (Optional) Tag fetching strategy: Fetch all tags and their commits -> Next
 
-![Screenshot 2024-04-11 at 10.52.34 AM](./assets/Clone a Git Repo and add the clone to this view.png)
+<img src="./assets/Clone a Git Repo and add the clone to this view.png">
 
 Step 2: Destination: Choose a local folder to store and take notes of the folder name -> Finish
 
