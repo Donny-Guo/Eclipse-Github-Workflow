@@ -73,12 +73,16 @@ Step 6: Commit and Push -> Ignore error -> Push the head -> github url
 
 ## 2. Download existing files from Github
 
-Step 1: Clone a Git Repo and add the clone to this view -> Clone URI -> Select the branch to clone -> Next -> 
+Step 0: Go to Git Perspective: open eclipse -> click on "Window" in the menu bar -> Perspective -> Open Perspective -> Other -> Git -> Open
 
-Step 2: Choose a local foldeer and take notes of the folder name
+Step 1: Clone a Git Repo and add the clone to this view -> Clone URI -> Select the branch to clone -> (Optional) Tag fetching strategy: Fetch all tags and their commits -> Next
 
-Step 3: Right click and switch to new branch.
+![Screenshot 2024-04-11 at 10.52.34 AM](./assets/Clone a Git Repo and add the clone to this view.png)
 
-Step 4: Go back to the Project Perspective
+Step 2: Destination: Choose a local folder to store and take notes of the folder name -> Finish
 
-Step 5: Select File -> Import -> Git -> Projects from Git -> Existing local repository -> Select the clonded git repo -> Java -> Java Project -> Project name: the folder name you just noted down -> Done
+Step 3: Right click on the project repository -> Switch to -> new branch -> Enter name of new branch -> check "Check out new branch" -> Finish
+
+Step 4: Go back to the Project Perspective: click on "Window" in the menu bar -> Perspective -> Open Perspective -> Other -> Java (default) -> Open
+
+Step 5: Select File -> Import -> Git -> Projects from Git -> Existing local repository -> Select the git repo you want to work on -> Next -> Import using the New Project wizard -> Finish ->  Java -> Java Project -> Next -> Uncheck "Use default location" -> Browser the location of the folder name you just noted down -> Finish -> Congratulations! You can now start working on your own branch.
