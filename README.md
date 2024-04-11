@@ -86,3 +86,4 @@ Step 3: Right click on the project repository -> Switch to -> new branch -> Ente
 Step 4: Go back to the Project Perspective: click on "Window" in the menu bar -> Perspective -> Open Perspective -> Other -> Java (default) -> Open
 
 Step 5: Select File -> Import -> Git -> Projects from Git -> Existing local repository -> Select the git repo you want to work on -> Next -> Import using the New Project wizard -> Finish ->  Java -> Java Project -> Next -> Uncheck "Use default location" -> Browser the location of the folder name you just noted down -> Finish -> Congratulations! You can now start working on your own branch.
+
